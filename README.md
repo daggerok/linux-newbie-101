@@ -95,6 +95,8 @@ docker run --rm -it --name linux ubuntu
 - hpw to type long command in a inline script (ie without inline back-slash usage)?
   Just start type a command and wherenever you feel you need a something like separate script file, just press `CTRL+X+E`
   this will bring you to a separate buffered in-memory script file
+- how to bring arguments from previously success executed command?
+  Just type new command, space and press `ALT+.`
 - RTFM
   ```bash
   # man $command
