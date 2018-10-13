@@ -71,6 +71,14 @@ docker run --rm -it --name linux ubuntu
   top
   htop
   ```
+- RTFM
+  ```bash
+  # man $command
+
+  man ps
+
+  # google / stackoverflow
+  ```
 
 links:
 
