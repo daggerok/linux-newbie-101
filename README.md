@@ -92,6 +92,9 @@ docker run --rm -it --name linux ubuntu
   top
   htop
   ```
+- hpw to type long command in a inline script (ie without inline back-slash usage)?
+  Just start type a command and wherenever you feel you need a something like separate script file, just press `CTRL+X+E`
+  this will bring you to a separate buffered in-memory script file
 - RTFM
   ```bash
   # man $command
